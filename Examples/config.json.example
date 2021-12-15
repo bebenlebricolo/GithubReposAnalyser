@@ -1,4 +1,5 @@
 {
     "username" : "nobody",
-    "personal access token" : "blahblahblah"
+    "personal access token" : "blahblahblah",
+    "test repo" : "example"
 }

@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import requests
 from AuthenticatedUser import AuthenticatedUser, User
 from Licenses import License
