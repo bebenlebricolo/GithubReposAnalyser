@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 
 from Traffic import Traffic, TimePeriod
 from AuthenticatedUser import AuthenticatedUser
